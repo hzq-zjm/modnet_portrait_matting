@@ -1,6 +1,6 @@
 # modnet_portrait_matting
 人像抠图
-# TODO & rethink 
+# log
 1.当前数据soc loss5:1效果更佳 ✌️  
 2.多尺度训练 ✌️  
 3.数据合成：模拟合成横屏、竖屏样本（pc端16:9、手机端9:16），随机尺度缩小人物进行贴图。 ✌️  
